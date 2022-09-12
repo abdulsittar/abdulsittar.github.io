@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Lecturer"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate courses"
+permalink: 
+venue: "Gujrat Institue of Management Sciences, CS&IT"
+date: 2019-10-30
+location: "Gujrat, Pakistan"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Programming Fundamental
 ======
 
-Heading 2
+Mobile Computing
 ======
 
-Heading 3
+Analysis of Algorithms
 ======

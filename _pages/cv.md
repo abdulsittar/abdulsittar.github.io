@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, University of Gujrat, Pakistan, 2013
-* M.S. in Computer Science, Comsats University Islamabad Lahore, Pakistan, 2016
 * Ph.D in Artificial Intelligence, Jozef Stefan International Postgraduate School, Ljubljana, Slovenia, 2023 (expected)
+* M.S. in Computer Science, Comsats University Islamabad Lahore, Pakistan, 2016
+* B.S. in Computer Science, University of Gujrat, Pakistan, 2013
+
 
 Work experience
 ======
-* Octobar 2013-2018: Senior Software Engineer
-  * Github University
+* February 2020-2023: Early Stage Researcher ([CLEOPATRA](https://cleopatra-project.eu/) under the Marie Skłodowska-Curie Innovative Training Network)
+  * Jozef Stefan Institute, Ljubljana, Slovenia
   * Duties included: 
-  * Supervisor: Professor Git
+  * Supervisor: Prof. Dr. Dunja Mladenic, Marko Grobelnik
 
 * Octobar 2018-2019: Lecturer
   * GIMS PMAS Arid Agriculture University
   * Duties included: 
   * Courses: Programming Fundamental, Mobile Computing, Analysis of Algorithms
   
-* February 2020-2023: Early Stage Researcher ([CLEOPATRA](https://cleopatra-project.eu/) under the Marie Skłodowska-Curie Innovative Training Network)
-  * Jozef Stefan Institute, Ljubljana, Slovenia
+* Octobar 2013-2018: Senior Software Engineer
+  * Github University
   * Duties included: 
-  * Supervisor: Prof. Dr. Dunja Mladenic
+  * Supervisor: Professor Git
   
 Skills
 ======
 * PROGRAMMING LANGUAGES & FRAMEWORKS
+  * Scikit Learn
+  * TensorFlow
   * swift
   * java
   * objective-c
@@ -43,9 +46,10 @@ Skills
   * python
   * javascript
   
+  
 Research Projects
 ======
-* CLEOPATRA
+* [CLEOPATRA](https://cleopatra-project.eu/)
 
 Development Projects
 ======

@@ -45,7 +45,7 @@ Skills
   
 Research Projects
 ======
-* [CLEOPATRA](https://cleopatra-project.eu/)
+* CLEOPATRA
 
 Development Projects
 ======
@@ -61,7 +61,6 @@ Development Projects
 * MyBiv 
 * SchoolView 
 * Walk & Wake 
-
 
 Talks
 ======

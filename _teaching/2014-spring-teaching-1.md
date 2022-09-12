@@ -8,7 +8,7 @@ date: 2019-10-30
 location: "Gujrat, Pakistan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have worked as lecturer for one year (two semesters). I taught courses including programming fundamental, mobile computing, analysis of algorithms.  
 
 Programming Fundamental
 ======

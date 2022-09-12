@@ -8,7 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am doctoral researcher at the [Department for Artifical Intelligence E3, Jozef Stefan Institute, Ljubljana, Slovenia](https://ailab.ijs.si/).
+I am early stage researcher at the [Department for Artifical Intelligence E3, Jozef Stefan Institute, Ljubljana, Slovenia](https://ailab.ijs.si/).
+
+I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer and [Nextbridge (Pvt.) Ltd](https://nextbridge.com) as Senior Software Engineer.
+
+My research interests include topics such as  Information Spreading Barriers, Plagiarism Detection and Text Reuse, and Multimodel Models for News and Social Media Data.
+
+Recent Updates
+======
+- (September 2022) Submitted PhD thesis
+- (September 2022) Completed secondment [UK Web Archive](https://www.webarchive.org.uk/en/ukwa/) as an early stage researcher.
+- (April 2022) Submitted a paper [Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination](https://ieeexplore.ieee.org/document/9749092) at IEEE Access
+- (February 2022) Submitted a paper [Analysis of information cascading and propagation barriers across distinctive news events] (https://link.springer.com/article/10.1007/s10844-021-00654-9) at Journal of Intelligent Information Systems
+- (December 2021) Completed secondment [Univeristy of London](https://www.london.ac.uk/)
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

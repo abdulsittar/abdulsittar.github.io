@@ -30,7 +30,7 @@ Work experience
   
 * Octobar 2013-2018: Senior Software Engineer
   * [Nextbridge (Pvt.) Ltd](https://nextbridge.com/)
-  * Duties included: Requirement gatherings, development, testing, publishing the applications 
+  * Duties included: Requirements gathering, development, testing, publishing the applications 
   
 Skills
 ======

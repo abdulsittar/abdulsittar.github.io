@@ -3,7 +3,7 @@ title: "Lecturer"
 collection: teaching
 type: "Undergraduate courses"
 permalink: 
-venue: "Gujrat Institue of Management Sciences, CS&IT"
+venue: "GIMS PMAS Arid Agriculture University, CS&IT"
 date: 2019-10-30
 location: "Gujrat, Pakistan"
 ---

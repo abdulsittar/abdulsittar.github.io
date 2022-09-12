@@ -7,7 +7,6 @@ author_profile: true
 
 You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en"><b>Google Scholar</b></a> profile.
 
-
 Sittar, Abdul; Major, Daniela; Mello, Caio; Mladenić, Dunja; Grobelnik, Marko; Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination, IEEE Access, 40036-40050, IEEE [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749092)
 
 Sittar, Abdul; Mladenić, Dunja; Grobelnik, Marko; Analysis of information cascading and propagation barriers across distinctive news events, Journal of Intelligent Information Systems, 58,1,119-152, 2022, Springer US. [PDF](https://link.springer.com/article/10.1007/s10844-021-00654-9)

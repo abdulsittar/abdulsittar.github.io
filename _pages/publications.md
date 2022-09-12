@@ -38,14 +38,3 @@ Cheema, Waqas Arshad; Najib, Fahad; Ahmed, Shakil; Bukhari, Syed Husnain; Sittar
 
 Pervaz, I; Ameer, I; Sittar, A; Nawab, RMA; 	Identification of author personality traits using stylistic features	CEUR Workshop Proceedings	1391			2015	
 
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}

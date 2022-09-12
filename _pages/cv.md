@@ -47,7 +47,6 @@ Research Projects
 ======
 * [CLEOPATRA](https://cleopatra-project.eu/)
 
-
 Development Projects
 ======
 * BizziBus

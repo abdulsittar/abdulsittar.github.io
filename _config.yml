@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=0TlRnDsAAAAJ"
-  email            :
+  email            : "abdulsittar72 (-at-) gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,18 +103,19 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "abdul-sittar-39012290"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0280-9594"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "abdulsittar4"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  sicris           : "https://cris.cobiss.net/ecris/si/en/researcher/52997"
 
 
 # Reading Files

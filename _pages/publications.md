@@ -20,7 +20,7 @@ Sittar, Abdul; Mladenic, Dunja; 	Using the Profile of Publishers to Predict Barr
 
 Sittar, Abdul; Mladenic, Dunja; 	Classification of Cross-cultural News Events	Proceedings of the 24th International Multiconference Information Society,29-32	2021. [PDF](https://ailab.ijs.si/dunja/SiKDD2021/Papers/Sittar+Mladenic.pdf)
 
-Sittar, Abdul; Mladenic, Dunja; 	How are the economic conditions and political alignment of a newspaper reflected in the events they report on?	Central European Conference on Information and Intelligent Systems,201-208,2021,Faculty of Organization and Informatics Varazdin.  [PDF]()
+Sittar, Abdul; Mladenic, Dunja; 	How are the economic conditions and political alignment of a newspaper reflected in the events they report on?	Central European Conference on Information and Intelligent Systems,201-208,2021,Faculty of Organization and Informatics Varazdin.  [PDF](https://www.proquest.com/docview/2604878234/fulltextPDF/456B60FA8EE645FCPQ/1?accountid=31309)
 
 Sittar, Abdul; Mladenić, Dunja; Erjavec, Tomaž; 	A Dataset for Information Spreading over the News	Proceedings of the 23th International Multiconference Information Society,8-May	2020. [PDF](https://ailab.ijs.si/dunja/SiKDD2020/Papers/01%20-%20A-Dataset-for-Information-Spreading-over-the-News.pdf)
 

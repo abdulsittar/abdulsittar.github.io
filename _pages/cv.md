@@ -21,7 +21,7 @@ Work experience
 * February 2020-2023: Early Stage Researcher ([CLEOPATRA](https://cleopatra-project.eu/) under the Marie Skłodowska-Curie Innovative Training Network)
   * Jozef Stefan Institute, Ljubljana, Slovenia
   * Duties included: Course work, participation: research works, learning weeks, hackathons, workshops
-  * Supervisor: Prof. Dr. Dunja Mladenic, Marko Grobelnik
+  * Supervisor: [Prof. Dr. Dunja Mladenic](https://ailab.ijs.si/dunja_mladenic/), [Marko Grobelnik](https://ailab.ijs.si/marko_grobelnik/)
 
 * Octobar 2018-2019: Lecturer
   * GIMS PMAS Arid Agriculture University
@@ -29,7 +29,7 @@ Work experience
   * Courses: Programming Fundamental, Mobile Computing, Analysis of Algorithms
   
 * Octobar 2013-2018: Senior Software Engineer
-  * Nextbridge (Pvt.) Ltd.
+  * [Nextbridge (Pvt.) Ltd](https://nextbridge.com/)
   * Duties included: Requirement gatherings, development, testing, publishing the applications 
   
 Skills

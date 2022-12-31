@@ -33,3 +33,4 @@ Cheema, Waqas Arshad; Najib, Fahad; Ahmed, Shakil; Bukhari, Syed Husnain; Sittar
 
 Pervaz, I; Ameer, I; Sittar, A; Nawab, RMA; 	Identification of author personality traits using stylistic features: CEUR Workshop Proceedings	1391,2015.[PDF](http://ceur-ws.org/Vol-1391/64-CR.pdf)
 
+Sittar, Abdul, Jason Webber, and Dunja Mladenić. "Stylistic features in clustering news reporting: News articles on BREXIT." (2022).

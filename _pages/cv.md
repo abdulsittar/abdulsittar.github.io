@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Artificial Intelligence, Jozef Stefan International Postgraduate School, Ljubljana, Slovenia, January 2023 (expected)
+* Ph.D in Artificial Intelligence, Jozef Stefan International Postgraduate School, Ljubljana, Slovenia, June 2023 (expected)
 * M.S. in Computer Science, Comsats University Islamabad Lahore, Pakistan, 2016
 * B.S. in Computer Science, University of Gujrat, Pakistan, 2013
 
@@ -21,7 +21,7 @@ Work experience
 * February 2020-2023: Early Stage Researcher ([CLEOPATRA](https://cleopatra-project.eu/) under the Marie Skłodowska-Curie Innovative Training Network)
   * Jozef Stefan Institute, Ljubljana, Slovenia
   * Duties included: Course work, participation: research works, learning weeks, hackathons, workshops
-  * Supervisor: [Prof. Dr. Dunja Mladenic](https://ailab.ijs.si/dunja_mladenic/), [Marko Grobelnik](https://ailab.ijs.si/marko_grobelnik/)
+  * Supervisors: [Prof. Dr. Dunja Mladenic](https://ailab.ijs.si/dunja_mladenic/), [Marko Grobelnik](https://ailab.ijs.si/marko_grobelnik/)
 
 * Octobar 2018-2019: Lecturer
   * GIMS PMAS Arid Agriculture University

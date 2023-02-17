@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Artificial Intelligence, Jozef Stefan International Postgraduate School, Ljubljana, Slovenia, June 2023 (expected)
+* Ph.D. in Artificial Intelligence, Jozef Stefan International Postgraduate School, Ljubljana, Slovenia, June 2023 (expected)
 * M.S. in Computer Science, Comsats University Islamabad Lahore, Pakistan, 2016
 * B.S. in Computer Science, University of Gujrat, Pakistan, 2013
 

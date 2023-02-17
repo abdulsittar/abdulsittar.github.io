@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Artificial Intelligence, Jozef Stefan International Postgraduate School, Ljubljana, Slovenia, June 2023 (expected)
+* Ph.D. in Computer Science, Jozef Stefan International Postgraduate School, Ljubljana, Slovenia, June 2023 (expected)
 * M.S. in Computer Science, Comsats University Islamabad Lahore, Pakistan, 2016
 * B.S. in Computer Science, University of Gujrat, Pakistan, 2013
 
@@ -23,12 +23,12 @@ Work experience
   * Duties included: Course work, participation: research works, learning weeks, hackathons, workshops
   * Supervisors: [Prof. Dr. Dunja Mladenic](https://ailab.ijs.si/dunja_mladenic/), [Marko Grobelnik](https://ailab.ijs.si/marko_grobelnik/)
 
-* Octobar 2018-2019: Lecturer
+* October 2018-2019: Lecturer
   * GIMS PMAS Arid Agriculture University
   * Duties included: Delivering course syllabous, conducting exams, results compilation
   * Courses: Programming Fundamental, Mobile Computing, Analysis of Algorithms
   
-* Octobar 2013-2018: Senior Software Engineer
+* October 2013-2018: Senior Software Engineer
   * [Nextbridge (Pvt.) Ltd](https://nextbridge.com/)
   * Duties included: Requirements gathering, development, testing, publishing the applications 
   

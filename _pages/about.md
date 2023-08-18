@@ -16,7 +16,8 @@ My research interests include topics such as  Information Spreading Barriers, Pl
 
 Recent Updates
 ======
-- (February 2023) PhD thesis submission (Expected 15 March 2023)
+- (August 2023) PhD thesis submission (Expected August 20 2023)
+- (August 2023) - Submitted a paper [Profiling the barriers to the spreading of news using news headlines ]([https://ieeexplore.ieee.org/document/9749092](https://www.frontiersin.org/articles/10.3389/frai.2023.1225213/abstract)) at IEEE Access
 - (September 2022) Completed secondment at [UK Web Archive](https://www.webarchive.org.uk/en/ukwa/) as an early stage researcher.
 - (April 2022) Completed the [Cleopatra Knowledge Processing Pipeline (CKPP) 2nd reference implementation](http://web.archive.org/web/20220419093637/http://cleopatra.ijs.si/ckpp/)
 - (April 2022) Submitted a paper [Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination](https://ieeexplore.ieee.org/document/9749092) at IEEE Access

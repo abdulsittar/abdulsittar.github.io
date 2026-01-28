@@ -161,6 +161,20 @@ Research Projects
 </div>
 
 
+
+Top publications
+======
+
+1. [BAR-analytics: A web-based platform for analyzing information spreading barriers in news: Comparative analysis across multiple barriers and events]([https://www.sciencedirect.com/science/article/pii/S2667096825000503](https://www.sciencedirect.com/science/article/pii/S2667096825000503)) at International Journal of Information Management Data Insights 
+2. [News dissemination: a semantic approach to barrier classification]([https://link.springer.com/article/10.1007/s10844-024-00894-5](https://link.springer.com/article/10.1007/s10844-024-00894-5)) at Journal of Intelligent Information Systems
+3. [Profiling the barriers to the spreading of news using news headlines]([https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2023.1225213/full](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2023.1225213/full)) at Frontiers in Artificial Intelligence
+4. [Analysis of Event-Centric News Spreading Barriers]([https://library.oapen.org/handle/20.500.12657/96074](https://library.oapen.org/handle/20.500.12657/96074)) at Springer Nature
+5. [MM-claims: a dataset for multimodal claim detection in social media]([https://aclanthology.org/2022.findings-naacl.72/](https://aclanthology.org/2022.findings-naacl.72/)) at NAACL 2022
+6. [Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination](https://ieeexplore.ieee.org/document/9749092) at IEEE Access.
+7. [Analysis of information cascading and propagation barriers across distinctive news events](https://link.springer.com/article/10.1007/s10844-021-00654-9) at Journal of Intelligent Information Systems.
+
+
+
 Dvelopment Projects
 ======
 
@@ -176,15 +190,3 @@ Dvelopment Projects
 10. MyBiv 
 11. SchoolView 
 12. Walk & Wake 
-
-
-Top publications
-======
-
-1. [BAR-analytics: A web-based platform for analyzing information spreading barriers in news: Comparative analysis across multiple barriers and events]([https://www.sciencedirect.com/science/article/pii/S2667096825000503](https://www.sciencedirect.com/science/article/pii/S2667096825000503)) at International Journal of Information Management Data Insights 
-2. [News dissemination: a semantic approach to barrier classification]([https://link.springer.com/article/10.1007/s10844-024-00894-5](https://link.springer.com/article/10.1007/s10844-024-00894-5)) at Journal of Intelligent Information Systems
-3. [Profiling the barriers to the spreading of news using news headlines]([https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2023.1225213/full](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2023.1225213/full)) at Frontiers in Artificial Intelligence
-4. [Analysis of Event-Centric News Spreading Barriers]([https://library.oapen.org/handle/20.500.12657/96074](https://library.oapen.org/handle/20.500.12657/96074)) at Springer Nature
-5. [MM-claims: a dataset for multimodal claim detection in social media]([https://aclanthology.org/2022.findings-naacl.72/](https://aclanthology.org/2022.findings-naacl.72/)) at NAACL 2022
-6. [Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination](https://ieeexplore.ieee.org/document/9749092) at IEEE Access.
-7. [Analysis of information cascading and propagation barriers across distinctive news events](https://link.springer.com/article/10.1007/s10844-021-00654-9) at Journal of Intelligent Information Systems.

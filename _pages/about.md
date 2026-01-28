@@ -162,6 +162,7 @@ Research Projects
 </div>
 ---
 
+
 Top publications
 ======
 
@@ -173,6 +174,7 @@ Top publications
 6. [Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination](https://ieeexplore.ieee.org/document/9749092) at IEEE Access (Q1)
 7. [Analysis of information cascading and propagation barriers across distinctive news events](https://link.springer.com/article/10.1007/s10844-021-00654-9) at Journal of Intelligent Information Systems (Q2)
 ---
+
 
 Dvelopment Projects
 ======

@@ -14,6 +14,52 @@ I am a Postdoctoral Researcher at the [Department for Artifical Intelligence E3,
 
 I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer and [Nextbridge (Pvt.) Ltd](https://nextbridge.com) as Senior Software Engineer.
 
+
+## Affiliations
+
+<div style="margin-top:1.5rem;">
+
+<div style="display:flex; align-items:center; margin-bottom:1.5rem;">
+  <img src="/images/bio-photo.jpg" alt="Jozef Stefan Institute" width="60" style="margin-right:1rem;">
+  <div>
+    <strong>Postdoctoral Researcher</strong><br>
+    Department for Artificial Intelligence E3, Jozef Stefan Institute<br>
+    <span style="color:#666;">2023 – Present · Ljubljana, Slovenia</span>
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:1.5rem;">
+  <img src="/images/bio-photo.jpg" alt="UK Web Archive" width="60" style="margin-right:1rem;">
+  <div>
+    <strong>Early Stage Researcher (Secondment)</strong><br>
+    UK Web Archive, University of London<br>
+    <span style="color:#666;">2022 · London, UK</span>
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:1.5rem;">
+  <img src="/images/bio-photo.jpg" alt="PMAS Arid Agriculture University" width="60" style="margin-right:1rem;">
+  <div>
+    <strong>Lecturer</strong><br>
+    GIMS, PMAS Arid Agriculture University<br>
+    <span style="color:#666;">2018 – 2020 · Rawalpindi, Pakistan</span>
+  </div>
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:1.5rem;">
+  <img src="/images/bio-photo.jpg" alt="Nextbridge Pvt Ltd" width="60" style="margin-right:1rem;">
+  <div>
+    <strong>Senior Software Engineer</strong><br>
+    Nextbridge (Pvt.) Ltd<br>
+    <span style="color:#666;">2013 – 2018 · Lahore, Pakistan</span>
+  </div>
+</div>
+
+</div>
+
+---
+
+
 Recent Updates
 ======
 - (August 2023) PhD thesis submission (January 20 2024)

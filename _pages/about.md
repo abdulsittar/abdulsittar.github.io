@@ -17,45 +17,46 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
 
 ## Affiliations
 
-<div style="margin-top:1.5rem;">
+<div style="display:grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin-top: 1.5rem; text-align: center;">
 
-<div style="display:flex; align-items:center; margin-bottom:1.5rem;">
-  <img src="/images/bio-photo.jpg" alt="Jozef Stefan Institute" width="60" style="margin-right:1rem;">
   <div>
-    <strong>Postdoctoral Researcher</strong><br>
-    Department for Artificial Intelligence E3, Jozef Stefan Institute<br>
-    <span style="color:#666;">2023 – Present · Ljubljana, Slovenia</span>
+    <img src="/assets/images/ijs-logo.png" alt="Jozef Stefan Institute" width="80">
+    <div style="margin-top:0.5rem;">
+      <strong>Jozef Stefan Institute</strong><br>
+      <span style="font-size:0.9em; color:#666;">Postdoctoral Researcher</span><br>
+      <span style="font-size:0.85em; color:#999;">2023 – Present · Ljubljana</span>
+    </div>
   </div>
-</div>
 
-<div style="display:flex; align-items:center; margin-bottom:1.5rem;">
-  <img src="/images/bio-photo.jpg" alt="UK Web Archive" width="60" style="margin-right:1rem;">
   <div>
-    <strong>Early Stage Researcher (Secondment)</strong><br>
-    UK Web Archive, University of London<br>
-    <span style="color:#666;">2022 · London, UK</span>
+    <img src="/assets/images/uk-web-archive-logo.png" alt="UK Web Archive" width="80">
+    <div style="margin-top:0.5rem;">
+      <strong>UK Web Archive</strong><br>
+      <span style="font-size:0.9em; color:#666;">Early Stage Researcher</span><br>
+      <span style="font-size:0.85em; color:#999;">2022 · London</span>
+    </div>
   </div>
-</div>
 
-<div style="display:flex; align-items:center; margin-bottom:1.5rem;">
-  <img src="/images/bio-photo.jpg" alt="PMAS Arid Agriculture University" width="60" style="margin-right:1rem;">
   <div>
-    <strong>Lecturer</strong><br>
-    GIMS, PMAS Arid Agriculture University<br>
-    <span style="color:#666;">2018 – 2020 · Rawalpindi, Pakistan</span>
+    <img src="/assets/images/pmau-logo.png" alt="PMAS Arid Agriculture University" width="80">
+    <div style="margin-top:0.5rem;">
+      <strong>PMAS Arid Agriculture University</strong><br>
+      <span style="font-size:0.9em; color:#666;">Lecturer</span><br>
+      <span style="font-size:0.85em; color:#999;">2018 – 2020 · Pakistan</span>
+    </div>
   </div>
-</div>
 
-<div style="display:flex; align-items:center; margin-bottom:1.5rem;">
-  <img src="/images/bio-photo.jpg" alt="Nextbridge Pvt Ltd" width="60" style="margin-right:1rem;">
   <div>
-    <strong>Senior Software Engineer</strong><br>
-    Nextbridge (Pvt.) Ltd<br>
-    <span style="color:#666;">2013 – 2018 · Lahore, Pakistan</span>
+    <img src="/assets/images/nextbridge-logo.png" alt="Nextbridge Pvt Ltd" width="80">
+    <div style="margin-top:0.5rem;">
+      <strong>Nextbridge (Pvt.) Ltd</strong><br>
+      <span style="font-size:0.9em; color:#666;">Senior Software Engineer</span><br>
+      <span style="font-size:0.85em; color:#999;">2013 – 2018 · Pakistan</span>
+    </div>
   </div>
-</div>
 
 </div>
+
 
 ---
 

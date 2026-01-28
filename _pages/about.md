@@ -38,8 +38,8 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
       <strong>Marie Skłodowska-Curie Innovative Training Network</strong><br>
-      <span style="color:#666;">Early Stage researcher</span><br>
-      <span style="color:#999;">2020 – 2023</span>
+      <span style="color:#666;">Early Stage researcher (ESR)</span><br>
+      <span style="color:#999;">2020 – 2023</span>s
     </div>
   </div>
   
@@ -105,6 +105,75 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
 
 </div>
 ---
+
+Research Projects
+======
+<div style="display:grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin-top: 1.5rem; text-align: center;">
+
+<div>
+    <a href="https://prepare-rehab.eu/" target="_blank">
+      <img src="/images/Prepare-Rehab-Logo.png" alt="prepare-rehab"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>PREPARE</strong><br>
+      <span style="color:#666;">Postdoc</span><br>
+      <span style="color:#999;">2026 – Present · Ljubljana · Slovenia</span>
+    </div>
+  </div>
+
+  <div>
+    <a href="https://www.twon-project.eu/" target="_blank">
+      <img src="/images/TWON_Logo.png" alt="TWON"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>TWON</strong><br>
+      <span style="color:#666;">Postdoc</span><br>
+      <span style="color:#999;">2024 – 2026 · Ljubljana · Slovenia</span>
+    </div>
+  </div>
+  
+  <div>
+    <a href="https://www.ai4hope.eu/" target="_blank">
+      <img src="/images/ai4hope.png" alt="AI4HOPE"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>AI4Hope</strong><br>
+      <span style="color:#666;">Postdoc</span><br>
+      <span style="color:#999;">2025 – 2026 · Maribor · Slovenia</span>
+    </div>
+  </div>
+  
+  <div>
+    <a href="https://cleopatra-project.eu/" target="_blank">
+      <img src="/images/Cleopatra_logo.png" alt="CLEOPATRA"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>CLEOPATRA</strong><br>
+      <span style="color:#666;">PhD</span><br>
+      <span style="color:#999;">2020 – 2023 · Ljubljana · Slovenia</span>
+    </div>
+  </div>
+</div>
+
+Dvelopment Projects
+======
+
+1. BizziBus
+2. VIET 
+3. iMoves
+4. Triwire 
+5. Medical Resource 
+6. The Mouve 
+7. Bayut 
+8. Zameen 
+9. DigitalLife
+10. MyBiv 
+11. SchoolView 
+12. Walk & Wake 
 
 
 Top publications

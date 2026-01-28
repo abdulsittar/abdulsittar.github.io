@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en"><b>Google Scholar</b></a> profile.
+You can find the complete list of articles on my <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=APjjwuYFnOmR9DsRRsAMItaTrwM8ZDntbRVTItDTTsLxzVmEPl6lKqIy0UuY8H-rDIxN1ssZkYjklLfKHc_xTg&user=0TlRnDsAAAAJ"><b>Google Scholar</b></a> profile.
 
 Sittar, Abdul; Major, Daniela; Mello, Caio; Mladenić, Dunja; Grobelnik, Marko; Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination, IEEE Access, 40036-40050, IEEE [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749092)
 

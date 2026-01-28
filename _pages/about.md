@@ -171,23 +171,135 @@ Top publications
 3. [Profiling the barriers to the spreading of news using news headlines]([https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2023.1225213/full](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2023.1225213/full)) at Frontiers in Artificial Intelligence (Q2)
 4. [Analysis of Event-Centric News Spreading Barriers]([https://library.oapen.org/handle/20.500.12657/96074](https://library.oapen.org/handle/20.500.12657/96074)) at Springer Nature
 5. [MM-claims: a dataset for multimodal claim detection in social media]([https://aclanthology.org/2022.findings-naacl.72/](https://aclanthology.org/2022.findings-naacl.72/)) at NAACL 2022 (Top-tier)
-6. [Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination](https://ieeexplore.ieee.org/document/9749092) at IEEE Access (Q1)
-7. [Analysis of information cascading and propagation barriers across distinctive news events](https://link.springer.com/article/10.1007/s10844-021-00654-9) at Journal of Intelligent Information Systems (Q2)
+6. [Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination]([https://ieeexplore.ieee.org/document/9749092](https://ieeexplore.ieee.org/document/9749092)) at IEEE Access (Q1)
+7. [Analysis of information cascading and propagation barriers across distinctive news events]([https://link.springer.com/article/10.1007/s10844-021-00654-9/](https://link.springer.com/article/10.1007/s10844-021-00654-9/)) at Journal of Intelligent Information Systems (Q2)
+
 ---
 
 
 Dvelopment Projects
 ======
+ <div style="display:grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin-top: 1.5rem; text-align: center">
 
-1. BizziBus
-2. VIET 
-3. iMoves
-4. Triwire 
-5. Medical Resource 
-6. The Mouve 
-7. Bayut 
-8. Zameen 
-9. DigitalLife
-10. MyBiv 
-11. SchoolView 
-12. Walk & Wake 
+<div>
+    <a href="" target="_blank">
+      <img src="/images/bio-photo.jpg" alt="BizziBus"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>BizziBus</strong><br>
+    </div>
+  </div>
+
+  <div>
+    <a href="" target="_blank">
+      <img src="/images/bio-photo.jpg" alt="VIET"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>VIET</strong><br>
+    </div>
+  </div>
+  
+  <div>
+    <a href="" target="_blank">
+      <img src="/images/bio-photo.jpg" alt="iMoves"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>iMoves</strong><br>
+    </div>
+  </div>
+  
+  <div>
+    <a href="" target="_blank">
+      <img src="/images/bio-photo.jpg" alt="Triwire"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>Triwire</strong><br>
+    </div>
+  </div>
+   
+  <div>
+    <a href="" target="_blank">
+      <img src="/images/bio-photo.jpg" alt="Medical Resource "
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>Medical Resource </strong><br>
+    </div>
+  </div>
+   
+  <div>
+    <a href="" target="_blank">
+      <img src="/images/bio-photo.jpg" alt="The Mouve"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>The Mouve </strong><br>
+    </div>
+  </div>
+  
+  <div>
+    <a href="" target="_blank">
+      <img src="/images/bio-photo.jpg" alt="Bayut"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>Bayut</strong><br>
+    </div>
+  </div>
+  
+  <div>
+    <a href="" target="_blank">
+      <img src="/images/bio-photo.jpg" alt="Zameen"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>Zameen</strong><br>
+    </div>
+  </div>
+  
+  <div>
+    <a href="" target="_blank">
+      <img src="/images/bio-photo.jpg" alt="DigitalLife"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>DigitalLife</strong><br>
+    </div>
+  </div>
+  
+  <div>
+    <a href="" target="_blank">
+      <img src="/images/bio-photo.jpg" alt="MyBiv"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>MyBiv</strong><br>
+    </div>
+  </div>
+  
+  <div>
+    <a href="" target="_blank">
+      <img src="/images/bio-photo.jpg" alt="SchoolView"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>SchoolView</strong><br>
+    </div>
+  </div>
+  
+  <div>
+    <a href="" target="_blank">
+      <img src="/images/bio-photo.jpg" alt="Walk & Wake"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>Walk & Wake</strong><br>
+    </div>
+  </div>
+  
+</div>
+--- 

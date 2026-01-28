@@ -16,7 +16,7 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
 
 
 ## Affiliations
-
+---
 <div style="display:grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin-top: 1.5rem; text-align: center;">
 
   <div>
@@ -108,7 +108,7 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
 
 Research Projects
 ======
-<div style="display:grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin-top: 1.5rem; text-align: center;">
+ <div style="display:grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin-top: 1.5rem; text-align: center">
 
 <div>
     <a href="https://prepare-rehab.eu/" target="_blank">
@@ -157,9 +157,10 @@ Research Projects
       <span style="color:#999;">2020 – 2023 · Ljubljana · Slovenia</span>
     </div>
   </div>
+  
+  
 </div>
-
-
+---
 
 Top publications
 ======
@@ -171,8 +172,7 @@ Top publications
 5. [MM-claims: a dataset for multimodal claim detection in social media]([https://aclanthology.org/2022.findings-naacl.72/](https://aclanthology.org/2022.findings-naacl.72/)) at NAACL 2022 (Top-tier)
 6. [Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination](https://ieeexplore.ieee.org/document/9749092) at IEEE Access (Q1)
 7. [Analysis of information cascading and propagation barriers across distinctive news events](https://link.springer.com/article/10.1007/s10844-021-00654-9) at Journal of Intelligent Information Systems (Q2)
-
-
+---
 
 Dvelopment Projects
 ======

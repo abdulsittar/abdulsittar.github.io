@@ -21,63 +21,78 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
 
   <div>
     <a href="https://ailab.ijs.si/" target="_blank">
-      <img src="/ images/JSI.png" alt="Jozef Stefan Institute" width="80">
+      <img src="/images/JSI.png" alt="Jozef Stefan Institute"
+           style="width:90px; height:90px; object-fit:contain;">
     </a>
-    <div style="margin-top:0.5rem;">
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
       <strong>Jozef Stefan Institute</strong><br>
-      <span style="font-size:0.9em; color:#666;">Postdoctoral Researcher</span><br>
-      <span style="font-size:0.85em; color:#999;">2023 – Present · Ljubljana</span>
+      <span style="color:#666;">Postdoc</span><br>
+      <span style="color:#999;">2024 – Present · Ljubljana</span>
+    </div>
+  </div>
+  
+  <div>
+    <a href="https://ailab.ijs.si/" target="_blank">
+      <img src="/images/JSI.png" alt="Jozef Stefan Institute"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>Jozef Stefan Institute</strong><br>
+      <span style="color:#666;">PhD</span><br>
+      <span style="color:#999;">2020 – 2024 · Ljubljana</span>
+    </div>
+  </div>
+  
+
+  <div>
+    <a href="https://www.bl.uk/" target="_blank">
+      <img src="/images/UoL.png" alt="UK Web Archive"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>The British Library</strong><br>
+      <span style="color:#666;">ESR</span><br>
+      <span style="color:#999;">2022 · London</span>
     </div>
   </div>
 
   <div>
     <a href="https://www.webarchive.org.uk/en/ukwa/" target="_blank">
-      <img src="/images/UoL.png" alt="UK Web Archive" width="80">
+      <img src="/images/UoL.png" alt="UK Web Archive"
+           style="width:90px; height:90px; object-fit:contain;">
     </a>
-    <div style="margin-top:0.5rem;">
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
       <strong>UK Web Archive</strong><br>
-      <span style="font-size:0.9em; color:#666;">University of London
-</span><br>
-      <span style="font-size:0.85em; color:#999;">2022 · London</span>
-    </div>
-  </div>
-
-  <div>
-    <a href="https://www.webarchive.org.uk/en/ukwa/" target="_blank">
-      <img src="/images/UoL.png" alt="UK Web Archive" width="80">
-    </a>
-    <div style="margin-top:0.5rem;">
-      <strong>UK Web Archive</strong><br>
-      <span style="font-size:0.9em; color:#666;">Early Stage Researcher</span><br>
-      <span style="font-size:0.85em; color:#999;">2022 · London</span>
+      <span style="color:#666;">ESR</span><br>
+      <span style="color:#999;">2022 · London</span>
     </div>
   </div>
 
   <div>
     <a href="https://www.pmas.edu.pk/" target="_blank">
-      <img src="/images/GIMS.png" alt="PMAS Arid Agriculture University" width="80">
+      <img src="/images/GIMS.png" alt="PMAS Arid Agriculture University"
+           style="width:90px; height:90px; object-fit:contain;">
     </a>
-    <div style="margin-top:0.5rem;">
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
       <strong>PMAS Arid Agriculture University</strong><br>
-      <span style="font-size:0.9em; color:#666;">Lecturer</span><br>
-      <span style="font-size:0.85em; color:#999;">2018 – 2020 · Pakistan</span>
+      <span style="color:#666;">Lecturer</span><br>
+      <span style="color:#999;">2018 – 2020 · Pakistan</span>
     </div>
   </div>
 
   <div>
     <a href="https://nextbridge.com/" target="_blank">
-      <img src="/images/nextbridge.png" alt="Nextbridge Pvt Ltd" width="80">
+      <img src="/images/nextbridge.png" alt="Nextbridge (Pvt.) Ltd"
+           style="width:90px; height:90px; object-fit:contain;">
     </a>
-    <div style="margin-top:0.5rem;">
-      <strong>Nextbridge (Pvt.) Ltd</strong><br>
-      <span style="font-size:0.9em; color:#666;">Senior Software Engineer</span><br>
-      <span style="font-size:0.85em; color:#999;">2013 – 2018 · Pakistan</span>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>Nextbridge</strong><br>
+      <span style="color:#666;">Senior Software Engineer</span><br>
+      <span style="color:#999;">2013 – 2018 · Pakistan</span>
     </div>
   </div>
 
 </div>
-
-
 ---
 
 

@@ -43,11 +43,16 @@ Work experience
   * Duties included: Course work, participation: research works, learning weeks, hackathons, workshops
   * Supervisors: [Prof. Dr. Dunja Mladenic](https://ailab.ijs.si/dunja_mladenic/), [Marko Grobelnik](https://ailab.ijs.si/marko_grobelnik/)
   
-  * February 2020-2023: Visiting Scholar ([CLEOPATRA](https://cleopatra-project.eu/) under the Marie Skłodowska-Curie Innovative Training Network)
+  * May 2021: Visiting Scholar ([CLEOPATRA](https://cleopatra-project.eu/) under the Marie Skłodowska-Curie Innovative Training Network)
+  * School of Advanced Study, University of London
+  * Collaborated with social science researchres for news analytics.
+  * Paper: Political and economic patterns in covid-19 news: from lockdown to vaccination[https://ieeexplore.ieee.org/abstract/document/9749092/]
+  * Supervisors: [Dr. Jason , Prof. Dr. Jane Winters](https://www.sas.ac.uk/people/professor-jane-winters)
+  
+  * February 2020-2023: Early Stage Researcher ([CLEOPATRA](https://cleopatra-project.eu/) under the Marie Skłodowska-Curie Innovative Training Network)
   * Jozef Stefan Institute, Ljubljana, Slovenia
   * Duties included: Course work, participation: research works, learning weeks, hackathons, workshops
   * Supervisors: [Prof. Dr. Dunja Mladenic](https://ailab.ijs.si/dunja_mladenic/), [Marko Grobelnik](https://ailab.ijs.si/marko_grobelnik/)
-  
 
 * October 2018-2019: Lecturer
   * GIMS PMAS Arid Agriculture University

@@ -20,7 +20,9 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
 <div style="display:grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin-top: 1.5rem; text-align: center;">
 
   <div>
-    <img src="/assets/images/ijs-logo.png" alt="Jozef Stefan Institute" width="80">
+    <a href="https://ailab.ijs.si/" target="_blank">
+      <img src="/ images/JSI.png" alt="Jozef Stefan Institute" width="80">
+    </a>
     <div style="margin-top:0.5rem;">
       <strong>Jozef Stefan Institute</strong><br>
       <span style="font-size:0.9em; color:#666;">Postdoctoral Researcher</span><br>
@@ -29,7 +31,21 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
   </div>
 
   <div>
-    <img src="/assets/images/uk-web-archive-logo.png" alt="UK Web Archive" width="80">
+    <a href="https://www.webarchive.org.uk/en/ukwa/" target="_blank">
+      <img src="/images/UoL.png" alt="UK Web Archive" width="80">
+    </a>
+    <div style="margin-top:0.5rem;">
+      <strong>UK Web Archive</strong><br>
+      <span style="font-size:0.9em; color:#666;">University of London
+</span><br>
+      <span style="font-size:0.85em; color:#999;">2022 · London</span>
+    </div>
+  </div>
+
+  <div>
+    <a href="https://www.webarchive.org.uk/en/ukwa/" target="_blank">
+      <img src="/images/UoL.png" alt="UK Web Archive" width="80">
+    </a>
     <div style="margin-top:0.5rem;">
       <strong>UK Web Archive</strong><br>
       <span style="font-size:0.9em; color:#666;">Early Stage Researcher</span><br>
@@ -38,7 +54,9 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
   </div>
 
   <div>
-    <img src="/assets/images/pmau-logo.png" alt="PMAS Arid Agriculture University" width="80">
+    <a href="https://www.pmas.edu.pk/" target="_blank">
+      <img src="/images/GIMS.png" alt="PMAS Arid Agriculture University" width="80">
+    </a>
     <div style="margin-top:0.5rem;">
       <strong>PMAS Arid Agriculture University</strong><br>
       <span style="font-size:0.9em; color:#666;">Lecturer</span><br>
@@ -47,7 +65,9 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
   </div>
 
   <div>
-    <img src="/assets/images/nextbridge-logo.png" alt="Nextbridge Pvt Ltd" width="80">
+    <a href="https://nextbridge.com/" target="_blank">
+      <img src="/images/nextbridge.png" alt="Nextbridge Pvt Ltd" width="80">
+    </a>
     <div style="margin-top:0.5rem;">
       <strong>Nextbridge (Pvt.) Ltd</strong><br>
       <span style="font-size:0.9em; color:#666;">Senior Software Engineer</span><br>

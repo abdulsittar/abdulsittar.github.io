@@ -27,7 +27,7 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
       <strong>Jozef Stefan Institute</strong><br>
       <span style="color:#666;">Postdoc</span><br>
-      <span style="color:#999;">2024 – Present · Ljubljana</span>
+      <span style="color:#999;">2024 – Present · Ljubljana · Slovenia</span>
     </div>
   </div>
   
@@ -39,7 +39,7 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
       <strong>Jozef Stefan Institute</strong><br>
       <span style="color:#666;">PhD</span><br>
-      <span style="color:#999;">2020 – 2024 · Ljubljana</span>
+      <span style="color:#999;">2020 – 2024 · Ljubljana · Slovenia</span>
     </div>
   </div>
   
@@ -76,7 +76,7 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
       <strong>PMAS Arid Agriculture University</strong><br>
       <span style="color:#666;">Lecturer</span><br>
-      <span style="color:#999;">2018 – 2020 · Pakistan</span>
+      <span style="color:#999;">2018 – 2020 · Gujrat · Pakistan</span>
     </div>
   </div>
 
@@ -88,7 +88,7 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
       <strong>Nextbridge</strong><br>
       <span style="color:#666;">Senior Software Engineer</span><br>
-      <span style="color:#999;">2013 – 2018 · Pakistan</span>
+      <span style="color:#999;">2013 – 2018 · Lahore · Pakistan</span>
     </div>
   </div>
 
@@ -97,10 +97,17 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
 
 
 Top publications
-%======
-- [Profiling the barriers to the spreading of news using news headlines ]([https://www.sciencedirect.com/science/article/pii/S2667096825000503](https://www.sciencedirect.com/science/article/pii/S2667096825000503)) at International Journal of Information Management Data Insights
+======
 
-- [Profiling the barriers to the spreading of news using news headlines ]([https://ieeexplore.ieee.org/document/9749092](https://www.frontiersin.org/articles/10.3389/frai.2023.1225213/abstract)) at Frontiers in Artificial Intelligence
+- [BAR-analytics: A web-based platform for analyzing information spreading barriers in news: Comparative analysis across multiple barriers and events]([https://www.sciencedirect.com/science/article/pii/S2667096825000503](https://www.sciencedirect.com/science/article/pii/S2667096825000503)) at International Journal of Information Management Data Insights
+  
+- [News dissemination: a semantic approach to barrier classification]([https://link.springer.com/article/10.1007/s10844-024-00894-5](https://link.springer.com/article/10.1007/s10844-024-00894-5)) at Journal of Intelligent Information Systems
+
+- [News dissemination: a semantic approach to barrier classification]([https://link.springer.com/article/10.1007/s10844-024-00894-5](https://link.springer.com/article/10.1007/s10844-024-00894-5)) at Journal of Intelligent Information Systems
+
+- [Analysis of Event-Centric News Spreading Barriers]([https://library.oapen.org/handle/20.500.12657/96074](https://library.oapen.org/handle/20.500.12657/96074)) at Springer Nature
+
+- [MM-claims: a dataset for multimodal claim detection in social media]([https://aclanthology.org/2022.findings-naacl.72/](https://aclanthology.org/2022.findings-naacl.72/)) at NAACL 2022
 
 - [Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination](https://ieeexplore.ieee.org/document/9749092) at IEEE Access.
 

@@ -33,7 +33,7 @@ I’m a researcher (AI/ML) with interests in information diffusion in news and s
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
       <strong>Univerza v Mariboru</strong><br>
       <span style="color:#666;">Postdoc</span><br>
-      <span style="color:#999;">2025 – Present · Maribor · Slovenia</span>
+      <span style="color:#999;">2025 – 2026 · Maribor · Slovenia</span>
     </div>
   </div>
   
@@ -237,15 +237,27 @@ Dvelopment Projects
     </div>
   </div>
    
-  <div>
-    <a href="" target="_blank">
-      <img src="/images/bio-photo.jpg" alt="The Mouve"
-           style="width:90px; height:90px; object-fit:contain;">
-    </a>
-    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-      <strong>The Mouve </strong><br>
+<div>
+  <a href="" target="_blank">
+    <div style="
+      width:90px;
+      height:90px;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      border:1px solid #ccc;
+      background:#f8f8f8;
+      font-size:0.85em;
+      color:#666;
+      text-align:center;
+      object-fit:contain;">
+      Project 1
     </div>
+  </a>
+  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+    <strong>The Mouve</strong><br>
   </div>
+</div>
   
   <div>
     <a href="" target="_blank">

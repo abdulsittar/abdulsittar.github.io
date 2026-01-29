@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Abdul Sittar"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Abdul Sittar"
 description              : &description "personal description"
 url                      : https://abdulsittar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "abdul-sittar-39012290"
+  linkedin         : "https://www.linkedin.com/in/dr-abdul-sittar-39012290/"
   orcid            : "https://orcid.org/0000-0003-0280-9594"
   pinterest        :
   soundcloud       :

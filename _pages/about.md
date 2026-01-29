@@ -326,277 +326,271 @@ Programming Languages & Tools
 ---
 
 
-Dvelopment Projects
+Development Projects
 ======
- <div style="display:grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin-top: 1.5rem; text-align: center">
 
-<div style="text-align:center;">
-  <a href="" target="_blank" style="text-decoration:none; display:block;">
-    <div style="
-      width:90px;
-      height:90px;
-      margin:0 auto;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      border:1px solid #ccc;
-      background:#f8f8f8;
-      font-size:0.85em;
-      color:#666;
-      text-align:center;
-      line-height:1;
-      box-sizing:border-box;">
-      Project 1
-    </div>
-  </a>
-  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-    <strong>BizziBus</strong><br>
-  </div>
-</div
+<div style="display:grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin-top: 1.5rem; text-align: center;">
 
-
-<div style="text-align:center;">
-  <a href="" target="_blank" style="text-decoration:none; display:block;">
-    <div style="
-      width:90px;
-      height:90px;
-      margin:0 auto;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      border:1px solid #ccc;
-      background:#f8f8f8;
-      font-size:0.85em;
-      color:#666;
-      text-align:center;
-      line-height:1;
-      box-sizing:border-box;">
-      Project 2
-    </div>
-  </a>
-  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-    <strong>VIET</strong><br>
-  </div>
-</div
-
-<div style="text-align:center;">
-  <a href="" target="_blank" style="text-decoration:none; display:block;">
-    <div style="
-      width:90px;
-      height:90px;
-      margin:0 auto;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      border:1px solid #ccc;
-      background:#f8f8f8;
-      font-size:0.85em;
-      color:#666;
-      text-align:center;
-      line-height:1;
-      box-sizing:border-box;">
-      Project 3
-    </div>
-  </a>
-  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-    <strong>iMoves</strong><br>
-  </div>
-</div
-  
-  
   <div style="text-align:center;">
-  <a href="" target="_blank" style="text-decoration:none; display:block;">
-    <div style="
-      width:90px;
-      height:90px;
-      margin:0 auto;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      border:1px solid #ccc;
-      background:#f8f8f8;
-      font-size:0.85em;
-      color:#666;
-      text-align:center;
-      line-height:1;
-      box-sizing:border-box;">
-      Project 4
-    </div>
-  </a>
-  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-    <strong>Triwire</strong><br>
-  </div>
-</div
-  
-  
-  <div style="text-align:center;">
-  <a href="" target="_blank" style="text-decoration:none; display:block;">
-    <div style="
-      width:90px;
-      height:90px;
-      margin:0 auto;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      border:1px solid #ccc;
-      background:#f8f8f8;
-      font-size:0.85em;
-      color:#666;
-      text-align:center;
-      line-height:1;
-      box-sizing:border-box;">
-      Project 5
-    </div>
-  </a>
-  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-    <strong>Medical Resource</strong><br>
-  </div>
-</div>
-   
-   
-
-<div style="text-align:center;">
-  <a href="" target="_blank" style="text-decoration:none; display:block;">
-    <div style="
-      width:90px;
-      height:90px;
-      margin:0 auto;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      border:1px solid #ccc;
-      background:#f8f8f8;
-      font-size:0.85em;
-      color:#666;
-      text-align:center;
-      line-height:1;
-      box-sizing:border-box;">
-      Project 7
-    </div>
-  </a>
-  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-    <strong>The Mouve</strong><br>
-  </div>
-</div>
-
-<div style="text-align:center;">
-  <a href="" target="_blank">
-    <img src="/images/bayut.png" alt="Bayut"
-         style="width:90px; height:90px; object-fit:contain; display:block; margin:0 auto;">
-  </a>
-  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-    <strong>Bayut</strong><br>
-  </div>
-</div>
-
-  
-  <div>
-    <a href="" target="_blank">
-      <img src="/images/zameen.png" alt="Zameen"
-           style="width:90px; height:90px; object-fit:contain;">
+    <a href="" target="_blank" style="text-decoration:none; display:block;">
+      <div style="
+        width:90px;
+        height:90px;
+        margin:0 auto;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        border:1px solid #ccc;
+        background:#f8f8f8;
+        font-size:0.85em;
+        color:#666;
+        text-align:center;
+        line-height:1;
+        box-sizing:border-box;">
+        Project 1
+      </div>
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-      <strong>Zameen</strong><br>
+      <strong>BizziBus</strong>
     </div>
   </div>
-  
-  <div style="text-align:center;">
-  <a href="" target="_blank" style="text-decoration:none; display:block;">
-    <div style="
-      width:90px;
-      height:90px;
-      margin:0 auto;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      border:1px solid #ccc;
-      background:#f8f8f8;
-      font-size:0.85em;
-      color:#666;
-      text-align:center;
-      line-height:1;
-      box-sizing:border-box;">
-      Project 10
-    </div>
-  </a>
-  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-    <strong>DigitalLife</strong><br>
-  </div>
-</div>
-  
 
   <div style="text-align:center;">
-  <a href="" target="_blank" style="text-decoration:none; display:block;">
-    <div style="
-      width:90px;
-      height:90px;
-      margin:0 auto;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      border:1px solid #ccc;
-      background:#f8f8f8;
-      font-size:0.85em;
-      color:#666;
-      text-align:center;
-      line-height:1;
-      box-sizing:border-box;">
-      Project 11
+    <a href="" target="_blank" style="text-decoration:none; display:block;">
+      <div style="
+        width:90px;
+        height:90px;
+        margin:0 auto;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        border:1px solid #ccc;
+        background:#f8f8f8;
+        font-size:0.85em;
+        color:#666;
+        text-align:center;
+        line-height:1;
+        box-sizing:border-box;">
+        Project 2
+      </div>
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>VIET</strong>
     </div>
-  </a>
-  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-    <strong>MyBiv</strong><br>
   </div>
-</div>
-  
-  <div style="text-align:center;">
-  <a href="" target="_blank" style="text-decoration:none; display:block;">
-    <div style="
-      width:90px;
-      height:90px;
-      margin:0 auto;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      border:1px solid #ccc;
-      background:#f8f8f8;
-      font-size:0.85em;
-      color:#666;
-      text-align:center;
-      line-height:1;
-      box-sizing:border-box;">
-      Project 12
-    </div>
-  </a>
-  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-    <strong>SchoolView</strong><br>
-  </div>
-</div>
-
 
   <div style="text-align:center;">
-  <a href="" target="_blank" style="text-decoration:none; display:block;">
-    <div style="
-      width:90px;
-      height:90px;
-      margin:0 auto;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      border:1px solid #ccc;
-      background:#f8f8f8;
-      font-size:0.85em;
-      color:#666;
-      text-align:center;
-      line-height:1;
-      box-sizing:border-box;">
-      Project 13
+    <a href="" target="_blank" style="text-decoration:none; display:block;">
+      <div style="
+        width:90px;
+        height:90px;
+        margin:0 auto;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        border:1px solid #ccc;
+        background:#f8f8f8;
+        font-size:0.85em;
+        color:#666;
+        text-align:center;
+        line-height:1;
+        box-sizing:border-box;">
+        Project 3
+      </div>
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>iMoves</strong>
     </div>
-  </a>
-  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-    <strong>Walk & Wake</strong><br>
   </div>
+
+  <div style="text-align:center;">
+    <a href="" target="_blank" style="text-decoration:none; display:block;">
+      <div style="
+        width:90px;
+        height:90px;
+        margin:0 auto;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        border:1px solid #ccc;
+        background:#f8f8f8;
+        font-size:0.85em;
+        color:#666;
+        text-align:center;
+        line-height:1;
+        box-sizing:border-box;">
+        Project 4
+      </div>
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>Triwire</strong>
+    </div>
+  </div>
+
+  <div style="text-align:center;">
+    <a href="" target="_blank" style="text-decoration:none; display:block;">
+      <div style="
+        width:90px;
+        height:90px;
+        margin:0 auto;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        border:1px solid #ccc;
+        background:#f8f8f8;
+        font-size:0.85em;
+        color:#666;
+        text-align:center;
+        line-height:1;
+        box-sizing:border-box;">
+        Project 5
+      </div>
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>Medical Resource</strong>
+    </div>
+  </div>
+
+  <div style="text-align:center;">
+    <a href="" target="_blank" style="text-decoration:none; display:block;">
+      <div style="
+        width:90px;
+        height:90px;
+        margin:0 auto;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        border:1px solid #ccc;
+        background:#f8f8f8;
+        font-size:0.85em;
+        color:#666;
+        text-align:center;
+        line-height:1;
+        box-sizing:border-box;">
+        Project 7
+      </div>
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>The Mouve</strong>
+    </div>
+  </div>
+
+  <div style="text-align:center;">
+    <a href="" target="_blank">
+      <img src="/images/bayut.png" alt="Bayut"
+           style="width:90px; height:90px; object-fit:contain; display:block; margin:0 auto;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>Bayut</strong>
+    </div>
+  </div>
+
+  <div style="text-align:center;">
+    <a href="" target="_blank">
+      <img src="/images/zameen.png" alt="Zameen"
+           style="width:90px; height:90px; object-fit:contain; display:block; margin:0 auto;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>Zameen</strong>
+    </div>
+  </div>
+
+  <div style="text-align:center;">
+    <a href="" target="_blank" style="text-decoration:none; display:block;">
+      <div style="
+        width:90px;
+        height:90px;
+        margin:0 auto;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        border:1px solid #ccc;
+        background:#f8f8f8;
+        font-size:0.85em;
+        color:#666;
+        text-align:center;
+        line-height:1;
+        box-sizing:border-box;">
+        Project 10
+      </div>
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>DigitalLife</strong>
+    </div>
+  </div>
+
+  <div style="text-align:center;">
+    <a href="" target="_blank" style="text-decoration:none; display:block;">
+      <div style="
+        width:90px;
+        height:90px;
+        margin:0 auto;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        border:1px solid #ccc;
+        background:#f8f8f8;
+        font-size:0.85em;
+        color:#666;
+        text-align:center;
+        line-height:1;
+        box-sizing:border-box;">
+        Project 11
+      </div>
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>MyBiv</strong>
+    </div>
+  </div>
+
+  <div style="text-align:center;">
+    <a href="" target="_blank" style="text-decoration:none; display:block;">
+      <div style="
+        width:90px;
+        height:90px;
+        margin:0 auto;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        border:1px solid #ccc;
+        background:#f8f8f8;
+        font-size:0.85em;
+        color:#666;
+        text-align:center;
+        line-height:1;
+        box-sizing:border-box;">
+        Project 12
+      </div>
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>SchoolView</strong>
+    </div>
+  </div>
+
+  <div style="text-align:center;">
+    <a href="" target="_blank" style="text-decoration:none; display:block;">
+      <div style="
+        width:90px;
+        height:90px;
+        margin:0 auto;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        border:1px solid #ccc;
+        background:#f8f8f8;
+        font-size:0.85em;
+        color:#666;
+        text-align:center;
+        line-height:1;
+        box-sizing:border-box;">
+        Project 13
+      </div>
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>Walk & Wake</strong>
+    </div>
+  </div>
+
 </div>
-  
-</div>
---- 
+
+---

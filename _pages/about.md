@@ -7,12 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Hi, I’m an AI and machine learning researcher with expertise in information spread in news and social media.
-<!--I am a Postdoctoral Researcher at the [Department for Artifical Intelligence E3, Jozef Stefan Institute, Ljubljana, Slovenia](https://ailab.ijs.si/), working on information spreading barriers, multimodal data analysis, and multi-agent social media ecosystem with LLMs.
-
-I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer and [Nextbridge (Pvt.) Ltd](https://nextbridge.com) as Senior Software Engineer.-->
-
+I’m a researcher (AI/ML) with interests in information diffusion in news and social media, multimodal analysis, LLM-based multi-agent ecosystems, and information spread barriers.
 
 ## Affiliations
 
@@ -181,7 +176,7 @@ Top publications
 2. [News dissemination: a semantic approach to barrier classification]([https://link.springer.com/article/10.1007/s10844-024-00894-5](https://link.springer.com/article/10.1007/s10844-024-00894-5)) at Journal of Intelligent Information Systems (Q2)
 3. [Profiling the barriers to the spreading of news using news headlines]([https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2023.1225213/full](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2023.1225213/full)) at Frontiers in Artificial Intelligence (Q2)
 4. [Analysis of Event-Centric News Spreading Barriers]([https://library.oapen.org/handle/20.500.12657/96074](https://library.oapen.org/handle/20.500.12657/96074)) at Springer Nature
-5. [MM-claims: a dataset for multimodal claim detection in social media]([https://aclanthology.org/2022.findings-naacl.72/](https://aclanthology.org/2022.findings-naacl.72/)) at NAACL 2022 (Top-tier)
+5. [MM-claims: a dataset for multimodal claim detection in social media]([https://aclanthology.org/2022.findings-naacl.72/](https://aclanthology.org/2022.findings-naacl.72/)) at NAACL (Top-tier)
 6. [Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination]([https://ieeexplore.ieee.org/document/9749092](https://ieeexplore.ieee.org/document/9749092)) at IEEE Access (Q1)
 7. [Analysis of information cascading and propagation barriers across distinctive news events]([https://link.springer.com/article/10.1007/s10844-021-00654-9/](https://link.springer.com/article/10.1007/s10844-021-00654-9/)) at Journal of Intelligent Information Systems (Q2)
 
@@ -254,7 +249,7 @@ Dvelopment Projects
   
   <div>
     <a href="" target="_blank">
-      <img src="/images/bio-photo.jpg" alt="Bayut"
+      <img src="/images/bayut.png" alt="Bayut"
            style="width:90px; height:90px; object-fit:contain;">
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
@@ -264,7 +259,7 @@ Dvelopment Projects
   
   <div>
     <a href="" target="_blank">
-      <img src="/images/bio-photo.jpg" alt="Zameen"
+      <img src="/images/zameen.png" alt="Zameen"
            style="width:90px; height:90px; object-fit:contain;">
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">

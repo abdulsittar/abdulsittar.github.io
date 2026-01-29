@@ -182,6 +182,149 @@ Top publications
 
 ---
 
+Programming Languages & Tools
+======
+
+<div style="display:grid; grid-template-columns: repeat(10, 1fr); gap: 1.5rem; margin-top: 1.5rem; text-align: center;">
+
+  <!-- Objective-C -->
+  <div style="position:relative;">
+    <a href="https://developer.apple.com/documentation/objectivec" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg"
+           alt="Objective-C" style="width:45px; height:45px;">
+    </a>
+    <div style="font-size:0.75em; color:#666; margin-top:0.3rem;">Objective-C</div>
+  </div>
+
+  <!-- Swift -->
+  <div style="position:relative;">
+    <a href="https://www.swift.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
+           alt="Swift" style="width:45px; height:45px;">
+    </a>
+    <div style="font-size:0.75em; color:#666; margin-top:0.3rem;">Swift</div>
+  </div>
+
+  <!-- Kotlin -->
+  <div style="position:relative;">
+    <a href="https://kotlinlang.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+           alt="Kotlin" style="width:45px; height:45px;">
+    </a>
+    <div style="font-size:0.75em; color:#666; margin-top:0.3rem;">Kotlin</div>
+  </div>
+
+  <!-- Java -->
+  <div style="position:relative;">
+    <a href="https://www.java.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+           alt="Java" style="width:45px; height:45px;">
+    </a>
+    <div style="font-size:0.75em; color:#666; margin-top:0.3rem;">Java</div>
+  </div>
+
+  <!-- Python -->
+  <div style="position:relative;">
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+           alt="Python" style="width:45px; height:45px;">
+    </a>
+    <div style="font-size:0.75em; color:#666; margin-top:0.3rem;">Python</div>
+  </div>
+
+  <!-- HTML -->
+  <div style="position:relative;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+           alt="HTML" style="width:45px; height:45px;">
+    </a>
+    <div style="font-size:0.75em; color:#666; margin-top:0.3rem;">HTML</div>
+  </div>
+
+  <!-- TypeScript -->
+  <div style="position:relative;">
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+           alt="TypeScript" style="width:45px; height:45px;">
+    </a>
+    <div style="font-size:0.75em; color:#666; margin-top:0.3rem;">TypeScript</div>
+  </div>
+
+  <!-- JavaScript -->
+  <div style="position:relative;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+           alt="JavaScript" style="width:45px; height:45px;">
+    </a>
+    <div style="font-size:0.75em; color:#666; margin-top:0.3rem;">JavaScript</div>
+  </div>
+
+  <!-- PyTorch -->
+  <div style="position:relative;">
+    <a href="https://pytorch.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
+           alt="PyTorch" style="width:45px; height:45px;">
+    </a>
+    <div style="font-size:0.75em; color:#666; margin-top:0.3rem;">PyTorch</div>
+  </div>
+
+  <!-- Hugging Face -->
+  <div style="position:relative;">
+    <a href="https://huggingface.co/" target="_blank">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+           alt="Hugging Face" style="width:45px; height:45px;">
+    </a>
+    <div style="font-size:0.75em; color:#666; margin-top:0.3rem;">Hugging Face</div>
+  </div>
+
+  <!-- React -->
+  <div style="position:relative;">
+    <a href="https://react.dev/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+           alt="React" style="width:45px; height:45px;">
+    </a>
+    <div style="font-size:0.75em; color:#666; margin-top:0.3rem;">React</div>
+  </div>
+
+  <!-- Docker -->
+  <div style="position:relative;">
+    <a href="https://www.docker.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+           alt="Docker" style="width:45px; height:45px;">
+    </a>
+    <div style="font-size:0.75em; color:#666; margin-top:0.3rem;">Docker</div>
+  </div>
+
+  <!-- Git -->
+  <div style="position:relative;">
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+           alt="Git" style="width:45px; height:45px;">
+    </a>
+    <div style="font-size:0.75em; color:#666; margin-top:0.3rem;">Git</div>
+  </div>
+
+  <!-- VS Code -->
+  <div style="position:relative;">
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+           alt="VS Code" style="width:45px; height:45px;">
+    </a>
+    <div style="font-size:0.75em; color:#666; margin-top:0.3rem;">VS Code</div>
+  </div>
+
+  <!-- Figma -->
+  <div style="position:relative;">
+    <a href="https://www.figma.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+           alt="Figma" style="width:45px; height:45px;">
+    </a>
+    <div style="font-size:0.75em; color:#666; margin-top:0.3rem;">Figma</div>
+  </div>
+
+</div>
+
+
 
 Dvelopment Projects
 ======

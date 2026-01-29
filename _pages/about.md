@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a researcher (AI/ML) with interests in information diffusion in news and social media, multimodal analysis, LLM-based multi-agent ecosystems, and information spread barriers.
+I’m a researcher (AI/ML) with interests in information diffusion in news and social media, multimodal news analysis, LLM-based multi-agent ecosystems, and information spreading barriers.
 
 ## Affiliations
 

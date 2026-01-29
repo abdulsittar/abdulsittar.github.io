@@ -227,21 +227,22 @@ Dvelopment Projects
     </div>
   </div>
    
-  <div>
-    <a href="" target="_blank">
-      <img src="/images/bio-photo.jpg" alt="Medical Resource "
-           style="width:90px; height:90px; object-fit:contain;">
-    </a>
-    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-      <strong>Medical Resource </strong><br>
-    </div>
+  <div style="text-align:center;">
+  <a href="" target="_blank">
+    <img src="/images/bio-photo.jpg" alt="Medical Resource"
+         style="width:90px; height:90px; object-fit:contain; display:block; margin:0 auto;">
+  </a>
+  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+    <strong>Medical Resource</strong><br>
   </div>
-   
-<div>
-  <a href="" target="_blank" style="text-decoration:none;">
+</div>
+
+<div style="text-align:center;">
+  <a href="" target="_blank" style="text-decoration:none; display:block;">
     <div style="
       width:90px;
       height:90px;
+      margin:0 auto;
       display:flex;
       align-items:center;
       justify-content:center;
@@ -255,21 +256,21 @@ Dvelopment Projects
       Project 1
     </div>
   </a>
-  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2; text-align:center;">
+  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
     <strong>The Mouve</strong><br>
   </div>
 </div>
 
-  
-  <div>
-    <a href="" target="_blank">
-      <img src="/images/bayut.png" alt="Bayut"
-           style="width:90px; height:90px; object-fit:contain;">
-    </a>
-    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-      <strong>Bayut</strong><br>
-    </div>
+<div style="text-align:center;">
+  <a href="" target="_blank">
+    <img src="/images/bayut.png" alt="Bayut"
+         style="width:90px; height:90px; object-fit:contain; display:block; margin:0 auto;">
+  </a>
+  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+    <strong>Bayut</strong><br>
   </div>
+</div>
+
   
   <div>
     <a href="" target="_blank">

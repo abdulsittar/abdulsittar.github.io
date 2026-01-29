@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 Hi, I’m an AI and machine learning researcher with expertise in information spread in news and social media.
+<!--I am a Postdoctoral Researcher at the [Department for Artifical Intelligence E3, Jozef Stefan Institute, Ljubljana, Slovenia](https://ailab.ijs.si/), working on information spreading barriers, multimodal data analysis, and multi-agent social media ecosystem with LLMs.
 
-I am a Postdoctoral Researcher at the [Department for Artifical Intelligence E3, Jozef Stefan Institute, Ljubljana, Slovenia](https://ailab.ijs.si/), working on information spreading barriers, multimodal data analysis, and multi-agent social media ecosystem with LLMs.
-
-I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer and [Nextbridge (Pvt.) Ltd](https://nextbridge.com) as Senior Software Engineer.
+I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer and [Nextbridge (Pvt.) Ltd](https://nextbridge.com) as Senior Software Engineer.-->
 
 
 ## Affiliations

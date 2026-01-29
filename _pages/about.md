@@ -15,7 +15,7 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
 
 
 ## Affiliations
----
+
 <div style="display:grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin-top: 1.5rem; text-align: center;">
 
   <div>
@@ -27,6 +27,18 @@ I've previously worked at the GIMS PMAS Arid Agriculture University as lecturer 
       <strong>Jozef Stefan Institute</strong><br>
       <span style="color:#666;">Postdoc</span><br>
       <span style="color:#999;">2024 – Present · Ljubljana · Slovenia</span>
+    </div>
+  </div>
+  
+   <div>  
+    <a href="https://www.um.si/en/home-page/" target="_blank">
+      <img src="/images/maribor.png" alt="Jozef Stefan Institute"
+           style="width:90px; height:90px; object-fit:contain;">
+    </a>
+    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+      <strong>Univerza v Mariboru</strong><br>
+      <span style="color:#666;">Postdoc</span><br>
+      <span style="color:#999;">2025 – Present · Maribor · Slovenia</span>
     </div>
   </div>
   

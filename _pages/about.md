@@ -254,7 +254,7 @@ Dvelopment Projects
       Project 1
     </div>
   </a>
-  <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
+  <div style="margin-top:0.4rem; margin-left:0.1rem; font-size:0.85em; line-height:1.2;">
     <strong>The Mouve</strong><br>
   </div>
 </div>

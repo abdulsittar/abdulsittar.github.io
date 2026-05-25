@@ -9,6 +9,14 @@ redirect_from:
 ---
 I’m a researcher (AI/ML) with interests in information diffusion in news and social media, multimodal news analysis, LLM-based multi-agent ecosystems, Clinical data analysis, and Plagiarism Detection.
 
+<ul>
+  <li>Information diffusion in news and social media</li>
+  <li>Multimodal news analysis (text, image)</li>
+  <li>LLM-based multi-agent systems and ecosystems</li>
+  <li>Clinical data analysis and healthcare AI</li>
+  <li>Plagiarism detection and content similarity modeling</li>
+</ul>
+
 ## Affiliations
 
 <div style="display:grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin-top: 1.5rem; text-align: center;">

@@ -570,101 +570,135 @@ Development Projects
     </div>
   </div>
 
-  <div style="text-align:center;">
-    <a href="" target="_blank" style="text-decoration:none; display:block;">
+<!-- Digital Life -->
+<div style="text-align:center;">
+  <a href="" target="_blank" style="text-decoration:none; display:block;">
+    <div style="
+      width:90px;
+      height:90px;
+      margin:0 auto;
+      border-radius:18px;
+      background:linear-gradient(135deg,#1e3a8a,#60a5fa);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      color:white;
+      font-weight:700;
+      font-size:1.1rem;
+      box-shadow:0 10px 18px rgba(30,58,138,0.25);
+      position:relative;
+      overflow:hidden;
+    ">
       <div style="
-        width:90px;
-        height:90px;
-        margin:0 auto;
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        border:1px solid #ccc;
-        background:#f8f8f8;
-        font-size:0.85em;
-        color:#666;
-        text-align:center;
-        line-height:1;
-        box-sizing:border-box;">
-        Digital Life
-      </div>
-    </a>
-    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-      <strong>DigitalLife</strong>
+        position:absolute;
+        width:120px;
+        height:120px;
+        border-radius:50%;
+        background:rgba(255,255,255,0.1);
+        top:-40px;
+        left:-40px;
+      "></div>
+      <span>DL</span>
     </div>
-  </div>
+  </a>
+  <div style="margin-top:0.4rem;"><strong>DigitalLife</strong></div>
+</div>
 
-  <div style="text-align:center;">
-    <a href="" target="_blank" style="text-decoration:none; display:block;">
-      <div style="
-        width:90px;
-        height:90px;
-        margin:0 auto;
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        border:1px solid #ccc;
-        background:#f8f8f8;
-        font-size:0.85em;
-        color:#666;
-        text-align:center;
-        line-height:1;
-        box-sizing:border-box;">
-        MyBiv
-      </div>
-    </a>
-    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-      <strong>MyBiv</strong>
-    </div>
-  </div>
 
-  <div style="text-align:center;">
-    <a href="" target="_blank" style="text-decoration:none; display:block;">
-      <div style="
-        width:90px;
-        height:90px;
-        margin:0 auto;
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        border:1px solid #ccc;
-        background:#f8f8f8;
-        font-size:0.85em;
-        color:#666;
-        text-align:center;
-        line-height:1;
-        box-sizing:border-box;">
-        School View
-      </div>
-    </a>
-    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-      <strong>SchoolView</strong>
+<!-- MyBiv -->
+<div style="text-align:center;">
+  <a href="" target="_blank" style="text-decoration:none; display:block;">
+    <div style="
+      width:90px;
+      height:90px;
+      margin:0 auto;
+      border-radius:28px;
+      background:#111827;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      color:#fbbf24;
+      font-weight:800;
+      font-size:1.1rem;
+      letter-spacing:1px;
+      border:2px solid #fbbf24;
+      box-shadow:0 8px 16px rgba(0,0,0,0.2);
+      font-family:Arial,sans-serif;
+    ">
+      MB
     </div>
-  </div>
+  </a>
+  <div style="margin-top:0.4rem;"><strong>MyBiv</strong></div>
+</div>
 
-  <div style="text-align:center;">
-    <a href="" target="_blank" style="text-decoration:none; display:block;">
+
+<!-- SchoolView -->
+<div style="text-align:center;">
+  <a href="" target="_blank" style="text-decoration:none; display:block;">
+    <div style="
+      width:90px;
+      height:90px;
+      margin:0 auto;
+      border-radius:12px;
+      background:linear-gradient(135deg,#16a34a,#22c55e);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      color:white;
+      font-weight:800;
+      font-size:1rem;
+      box-shadow:0 10px 18px rgba(34,197,94,0.25);
+      position:relative;
+    ">
       <div style="
-        width:90px;
-        height:90px;
-        margin:0 auto;
+        position:absolute;
+        bottom:10px;
+        width:60px;
+        height:4px;
+        background:rgba(255,255,255,0.3);
+        border-radius:2px;
+      "></div>
+      SV
+    </div>
+  </a>
+  <div style="margin-top:0.4rem;"><strong>SchoolView</strong></div>
+</div>
+
+
+<!-- Walk & Wake -->
+<div style="text-align:center;">
+  <a href="" target="_blank" style="text-decoration:none; display:block;">
+    <div style="
+      width:90px;
+      height:90px;
+      margin:0 auto;
+      border-radius:50%;
+      background:conic-gradient(#f97316, #ef4444, #f97316);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      color:white;
+      font-weight:800;
+      font-size:1rem;
+      box-shadow:0 10px 20px rgba(249,115,22,0.25);
+      position:relative;
+    ">
+      <div style="
+        width:70px;
+        height:70px;
+        border-radius:50%;
+        background:rgba(0,0,0,0.15);
         display:flex;
         align-items:center;
         justify-content:center;
-        border:1px solid #ccc;
-        background:#f8f8f8;
-        font-size:0.85em;
-        color:#666;
-        text-align:center;
-        line-height:1;
-        box-sizing:border-box;">
-        Walk and Wake
+      ">
+        WW
       </div>
-    </a>
-    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-      <strong>Walk & Wake</strong>
     </div>
-  </div>
+  </a>
+  <div style="margin-top:0.4rem;"><strong>Walk & Wake</strong></div>
+</div>
+
 
 </div>
 

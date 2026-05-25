@@ -338,31 +338,19 @@ Programming Languages & Tools
 Development Projects
 ======
 
-<div style="display:grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin-top: 1.5rem; text-align: center;">
-
+<div style="display:grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin-top: 1.5rem; text-align: center;">  
+  
   <div style="text-align:center;">
-    <a href="" target="_blank" style="text-decoration:none; display:block;">
-      <div style="
-        width:90px;
-        height:90px;
-        margin:0 auto;
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        border:1px solid #ccc;
-        background:#f8f8f8;
-        font-size:0.85em;
-        color:#666;
-        text-align:center;
-        line-height:1;
-        box-sizing:border-box;">
-        Project 1
-      </div>
+    <a href="" target="_blank">
+      <img src="/images/vizibus.png" alt="VIZIBUS"
+           style="width:90px; height:90px; object-fit:contain; display:block; margin:0 auto;">
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-      <strong>BizziBus</strong>
+      <strong>VIZIBUS</strong>
     </div>
   </div>
+ 
+  
 
   <div style="text-align:center;">
     <a href="" target="_blank" style="text-decoration:none; display:block;">
@@ -380,7 +368,7 @@ Development Projects
         text-align:center;
         line-height:1;
         box-sizing:border-box;">
-        Project 2
+        VIET
       </div>
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
@@ -404,7 +392,7 @@ Development Projects
         text-align:center;
         line-height:1;
         box-sizing:border-box;">
-        Project 3
+        iMoves
       </div>
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
@@ -428,7 +416,7 @@ Development Projects
         text-align:center;
         line-height:1;
         box-sizing:border-box;">
-        Project 4
+        Triwire
       </div>
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
@@ -452,7 +440,7 @@ Development Projects
         text-align:center;
         line-height:1;
         box-sizing:border-box;">
-        Project 5
+        Medical Resource
       </div>
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
@@ -476,7 +464,7 @@ Development Projects
         text-align:center;
         line-height:1;
         box-sizing:border-box;">
-        Project 7
+        The Mouve
       </div>
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
@@ -520,7 +508,7 @@ Development Projects
         text-align:center;
         line-height:1;
         box-sizing:border-box;">
-        Project 10
+        Digital Life
       </div>
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
@@ -544,7 +532,7 @@ Development Projects
         text-align:center;
         line-height:1;
         box-sizing:border-box;">
-        Project 11
+        MyBiv
       </div>
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
@@ -568,7 +556,7 @@ Development Projects
         text-align:center;
         line-height:1;
         box-sizing:border-box;">
-        Project 12
+        School View
       </div>
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
@@ -592,7 +580,7 @@ Development Projects
         text-align:center;
         line-height:1;
         box-sizing:border-box;">
-        Project 13
+        Walk and Wake
       </div>
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">

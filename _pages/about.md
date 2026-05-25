@@ -392,125 +392,163 @@ Development Projects
   </div>
 </div>
 
-  <div style="text-align:center;">
-    <a href="" target="_blank" style="text-decoration:none; display:block;">
-      <div style="
-        width:90px;
-        height:90px;
-        margin:0 auto;
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        border:1px solid #ccc;
-        background:#f8f8f8;
-        font-size:0.85em;
-        color:#666;
-        text-align:center;
-        line-height:1;
-        box-sizing:border-box;">
-        VIET
-      </div>
-    </a>
-    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-      <strong>VIET</strong>
-    </div>
-  </div>
 
-  <div style="text-align:center;">
-    <a href="" target="_blank" style="text-decoration:none; display:block;">
+<!-- iMoves -->
+<div style="text-align:center;">
+  <a href="" target="_blank" style="text-decoration:none; display:block;">
+    <div style="
+      width:90px;
+      height:90px;
+      margin:0 auto;
+      border-radius:24px;
+      background:linear-gradient(135deg,#0ea5e9,#2563eb);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      color:white;
+      font-size:1.4rem;
+      font-weight:700;
+      font-family:Arial,sans-serif;
+      box-shadow:0 10px 20px rgba(37,99,235,0.25);
+      position:relative;
+      overflow:hidden;
+    ">
       <div style="
-        width:90px;
-        height:90px;
-        margin:0 auto;
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        border:1px solid #ccc;
-        background:#f8f8f8;
-        font-size:0.85em;
-        color:#666;
-        text-align:center;
-        line-height:1;
-        box-sizing:border-box;">
-        iMoves
-      </div>
-    </a>
-    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-      <strong>iMoves</strong>
-    </div>
-  </div>
+        position:absolute;
+        width:120px;
+        height:120px;
+        border-radius:50%;
+        background:rgba(255,255,255,0.12);
+        top:-50px;
+        right:-40px;
+      "></div>
 
-  <div style="text-align:center;">
-    <a href="" target="_blank" style="text-decoration:none; display:block;">
-      <div style="
-        width:90px;
-        height:90px;
-        margin:0 auto;
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        border:1px solid #ccc;
-        background:#f8f8f8;
-        font-size:0.85em;
-        color:#666;
-        text-align:center;
-        line-height:1;
-        box-sizing:border-box;">
-        Triwire
-      </div>
-    </a>
-    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-      <strong>Triwire</strong>
+      <span style="z-index:2;">iM</span>
     </div>
-  </div>
+  </a>
 
-  <div style="text-align:center;">
-    <a href="" target="_blank" style="text-decoration:none; display:block;">
-      <div style="
-        width:90px;
-        height:90px;
-        margin:0 auto;
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        border:1px solid #ccc;
-        background:#f8f8f8;
-        font-size:0.85em;
-        color:#666;
-        text-align:center;
-        line-height:1;
-        box-sizing:border-box;">
-        Medical Resource
-      </div>
-    </a>
-    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-      <strong>Medical Resource</strong>
-    </div>
+  <div style="margin-top:0.4rem; font-size:0.85em;">
+    <strong>iMoves</strong>
   </div>
+</div>
 
-  <div style="text-align:center;">
-    <a href="" target="_blank" style="text-decoration:none; display:block;">
+
+<!-- Triwire -->
+<div style="text-align:center;">
+  <a href="" target="_blank" style="text-decoration:none; display:block;">
+    <div style="
+      width:90px;
+      height:90px;
+      margin:0 auto;
+      border-radius:18px;
+      background:#111827;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      color:#22c55e;
+      font-size:1rem;
+      font-weight:800;
+      letter-spacing:1px;
+      font-family:Arial,sans-serif;
+      border:2px solid #22c55e;
+      box-shadow:0 8px 18px rgba(0,0,0,0.18);
+      position:relative;
+      overflow:hidden;
+    ">
       <div style="
-        width:90px;
-        height:90px;
-        margin:0 auto;
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        border:1px solid #ccc;
-        background:#f8f8f8;
-        font-size:0.85em;
-        color:#666;
-        text-align:center;
-        line-height:1;
-        box-sizing:border-box;">
-        The Mouve
-      </div>
-    </a>
-    <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
-      <strong>The Mouve</strong>
+        position:absolute;
+        width:140%;
+        height:2px;
+        background:rgba(34,197,94,0.35);
+        transform:rotate(-25deg);
+      "></div>
+
+      <span style="z-index:2;">TW</span>
     </div>
+  </a>
+
+  <div style="margin-top:0.4rem; font-size:0.85em;">
+    <strong>Triwire</strong>
   </div>
+</div>
+
+
+<!-- Medical Resource -->
+<div style="text-align:center;">
+  <a href="" target="_blank" style="text-decoration:none; display:block;">
+    <div style="
+      width:90px;
+      height:90px;
+      margin:0 auto;
+      border-radius:22px;
+      background:linear-gradient(135deg,#ef4444,#dc2626);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      color:white;
+      font-size:1.2rem;
+      font-weight:700;
+      font-family:Arial,sans-serif;
+      box-shadow:0 10px 18px rgba(220,38,38,0.22);
+      position:relative;
+    ">
+      <div style="
+        position:absolute;
+        width:28px;
+        height:28px;
+        background:rgba(255,255,255,0.15);
+        border-radius:8px;
+        top:10px;
+        left:10px;
+      "></div>
+
+      <span style="z-index:2;">MR</span>
+    </div>
+  </a>
+
+  <div style="margin-top:0.4rem; font-size:0.85em;">
+    <strong>Medical Resource</strong>
+  </div>
+</div>
+
+
+<!-- The Mouve -->
+<div style="text-align:center;">
+  <a href="" target="_blank" style="text-decoration:none; display:block;">
+    <div style="
+      width:90px;
+      height:90px;
+      margin:0 auto;
+      border-radius:50%;
+      background:linear-gradient(135deg,#f59e0b,#f97316);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      color:white;
+      font-size:1.1rem;
+      font-weight:800;
+      font-family:Georgia,serif;
+      box-shadow:0 10px 20px rgba(249,115,22,0.25);
+      position:relative;
+      overflow:hidden;
+    ">
+      <div style="
+        position:absolute;
+        width:100%;
+        height:100%;
+        border:3px dashed rgba(255,255,255,0.2);
+        border-radius:50%;
+        transform:scale(0.82);
+      "></div>
+
+      <span style="z-index:2;">TM</span>
+    </div>
+  </a>
+
+  <div style="margin-top:0.4rem; font-size:0.85em;">
+    <strong>The Mouve</strong>
+  </div>
+</div>
 
   <div style="text-align:center;">
     <a href="" target="_blank">

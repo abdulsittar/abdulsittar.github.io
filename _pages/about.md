@@ -352,7 +352,45 @@ Development Projects
     </div>
   </div>
  
-  
+  <div style="text-align:center;">
+  <a href="" target="_blank" style="text-decoration:none; display:block;">
+
+  <div style="
+      width:90px;
+      height:90px;
+      margin:0 auto;
+      border-radius:22px;
+      background:linear-gradient(135deg, #4f46e5, #7c3aed);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      box-shadow:0 8px 18px rgba(0,0,0,0.12);
+      color:white;
+      font-weight:700;
+      font-size:1rem;
+      letter-spacing:1px;
+      text-transform:uppercase;
+      overflow:hidden;
+      position:relative;">
+    <span style="z-index:2;font-family:Arial, sans-serif;"> VIET</span>
+
+      <!-- subtle background decoration -->
+      <div style="position:absolute;
+        width:120px;
+        height:120px;
+        background:rgba(255,255,255,0.08);
+        border-radius:50%;
+        top:-40px;
+        right:-40px;">
+      </div>
+    </div>
+
+  </a>
+
+  <div style="margin-top:0.5rem; font-size:0.85em; line-height:1.2;">
+    <strong>VIET</strong>
+  </div>
+</div>
 
   <div style="text-align:center;">
     <a href="" target="_blank" style="text-decoration:none; display:block;">

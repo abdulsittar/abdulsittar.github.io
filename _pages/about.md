@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a researcher (AI/ML) with interests in information diffusion in news and social media, multimodal news analysis, LLM-based multi-agent ecosystems, and information spreading barriers.
+I’m a researcher (AI/ML) with interests in information diffusion in news and social media, multimodal news analysis, LLM-based multi-agent ecosystems, Clinical data analysis, and Plagiarism Detection.
 
 ## Affiliations
 
@@ -172,13 +172,22 @@ Research Projects
 Top publications
 ======
 
-1. [BAR-analytics: A web-based platform for analyzing information spreading barriers in news: Comparative analysis across multiple barriers and events]([https://www.sciencedirect.com/science/article/pii/S2667096825000503](https://www.sciencedirect.com/science/article/pii/S2667096825000503)) at International Journal of Information Management Data Insights (Q1)
-2. [News dissemination: a semantic approach to barrier classification]([https://link.springer.com/article/10.1007/s10844-024-00894-5](https://link.springer.com/article/10.1007/s10844-024-00894-5)) at Journal of Intelligent Information Systems (Q2)
-3. [Profiling the barriers to the spreading of news using news headlines]([https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2023.1225213/full](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2023.1225213/full)) at Frontiers in Artificial Intelligence (Q2)
-4. [Analysis of Event-Centric News Spreading Barriers]([https://library.oapen.org/handle/20.500.12657/96074](https://library.oapen.org/handle/20.500.12657/96074)) at Springer Nature
-5. [MM-claims: a dataset for multimodal claim detection in social media]([https://aclanthology.org/2022.findings-naacl.72/](https://aclanthology.org/2022.findings-naacl.72/)) at NAACL (Top-tier)
-6. [Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination]([https://ieeexplore.ieee.org/document/9749092](https://ieeexplore.ieee.org/document/9749092)) at IEEE Access (Q1)
-7. [Analysis of information cascading and propagation barriers across distinctive news events]([https://link.springer.com/article/10.1007/s10844-021-00654-9/](https://link.springer.com/article/10.1007/s10844-021-00654-9/)) at Journal of Intelligent Information Systems (Q2)
+1. [(2026) Fake News Detection Through LLM-Driven Text Augmentation Across Media and Languages]([https://www.mdpi.com/2504-4990/8/4/103](https://www.mdpi.com/2504-4990/8/4/103)) at Machine Learning and Knowledge Extraction (Q1)
+2. [(2026) Constructing a dataset to support agent-based modeling of online interactions: users, topics, and interaction networks]([https://ieeexplore.ieee.org/abstract/document/11457911](https://ieeexplore.ieee.org/abstract/document/11457911)) at IEEE access (Q1)
+3. [(2025) BAR-analytics: A web-based platform for analyzing information spreading barriers in news: Comparative analysis across multiple barriers and events]([https://www.sciencedirect.com/science/article/pii/S2667096825000503](https://www.sciencedirect.com/science/article/pii/S2667096825000503)) at International Journal of Information Management Data Insights (Q1)
+4. [(2025) News dissemination: a semantic approach to barrier classification]([https://link.springer.com/article/10.1007/s10844-024-00894-5](https://link.springer.com/article/10.1007/s10844-024-00894-5)) at Journal of Intelligent Information Systems (Q2)
+5. [(2025) Analysis of Event-Centric News Spreading Barriers]([https://library.oapen.org/handle/20.500.12657/96074](https://library.oapen.org/handle/20.500.12657/96074)) at Springer Nature
+6. [(2023) Profiling the barriers to the spreading of news using news headlines]([https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2023.1225213/full](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2023.1225213/full)) at Frontiers in Artificial Intelligence (Q2)
+7. [(2022) MM-claims: a dataset for multimodal claim detection in social media]([https://aclanthology.org/2022.findings-naacl.72/](https://aclanthology.org/2022.findings-naacl.72/)) at NAACL (Top-tier)
+8. [(2022) Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination]([https://ieeexplore.ieee.org/document/9749092](https://ieeexplore.ieee.org/document/9749092)) at IEEE Access (Q1)
+9. [(2022) Analysis of information cascading and propagation barriers across distinctive news events]([https://link.springer.com/article/10.1007/s10844-021-00654-9/](https://link.springer.com/article/10.1007/s10844-021-00654-9/)) at Journal of Intelligent Information Systems (Q2)
+10. [(2016) Author Diarization Using Cluster-Distance Approach]([https://downloads.webis.de/pan/publications/papers/sittar_2016.pdf](https://downloads.webis.de/pan/publications/papers/sittar_2016.pdf)) at CLEF (Working Notes)
+---
+Preprints/ arXiv/ SSRN Papers
+======
+
+1. [(2026) TWON social media: A scalable MERN-stack platform for experimental research in online social networks]([https://www.researchsquare.com/article/rs-9332950/v1](https://www.researchsquare.com/article/rs-9332950/v1))
+2. [(2026) Simulating multi-agent social media ecosystem with LLMs: Modeling, evaluation, and structural effects of ranking mechanisms]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6356059](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6356059))
 
 ---
 

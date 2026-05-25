@@ -183,12 +183,12 @@ Top publications
 9. [(2022) Analysis of information cascading and propagation barriers across distinctive news events]([https://link.springer.com/article/10.1007/s10844-021-00654-9/](https://link.springer.com/article/10.1007/s10844-021-00654-9/)) at Journal of Intelligent Information Systems (Q2)
 10. [(2016) Author Diarization Using Cluster-Distance Approach]([https://downloads.webis.de/pan/publications/papers/sittar_2016.pdf](https://downloads.webis.de/pan/publications/papers/sittar_2016.pdf)) at CLEF (Working Notes)
 ---
+
 Preprints/ arXiv/ SSRN Papers
 ======
 
 1. [(2026) TWON social media: A scalable MERN-stack platform for experimental research in online social networks]([https://www.researchsquare.com/article/rs-9332950/v1](https://www.researchsquare.com/article/rs-9332950/v1))
 2. [(2026) Simulating multi-agent social media ecosystem with LLMs: Modeling, evaluation, and structural effects of ranking mechanisms]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6356059](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6356059))
-
 ---
 
 Programming Languages & Tools

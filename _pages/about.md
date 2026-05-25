@@ -20,7 +20,7 @@ I’m a researcher (AI/ML) with interests in information diffusion in news and s
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
       <strong>Jozef Stefan Institute</strong><br>
-      <span style="color:#666;">Postdoc</span><br>
+      <span style="color:#666;">Associate Researcher</span><br>
       <span style="color:#999;">2024 – Present · Ljubljana · Slovenia</span>
     </div>
   </div>
@@ -32,7 +32,7 @@ I’m a researcher (AI/ML) with interests in information diffusion in news and s
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
       <strong>Univerza v Mariboru</strong><br>
-      <span style="color:#666;">Postdoc</span><br>
+      <span style="color:#666;">Associate Researcher</span><br>
       <span style="color:#999;">2025 – 2026 · Maribor · Slovenia</span>
     </div>
   </div>
@@ -123,7 +123,7 @@ Research Projects
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
       <strong>PREPARE</strong><br>
-      <span style="color:#666;">Postdoc</span><br>
+      <span style="color:#666;">Associate Researcher</span><br>
       <span style="color:#999;">2026 – Present · Ljubljana · Slovenia</span>
     </div>
   </div>
@@ -135,7 +135,7 @@ Research Projects
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
       <strong>TWON</strong><br>
-      <span style="color:#666;">Postdoc</span><br>
+      <span style="color:#666;">Associate Researcher</span><br>
       <span style="color:#999;">2024 – 2026 · Ljubljana · Slovenia</span>
     </div>
   </div>
@@ -147,7 +147,7 @@ Research Projects
     </a>
     <div style="margin-top:0.4rem; font-size:0.85em; line-height:1.2;">
       <strong>AI4Hope</strong><br>
-      <span style="color:#666;">Postdoc</span><br>
+      <span style="color:#666;">Associate Researcher</span><br>
       <span style="color:#999;">2025 – 2026 · Maribor · Slovenia</span>
     </div>
   </div>

@@ -23,7 +23,7 @@ Research Projects
 Work experience
 ======
 
-* February 2020-2023: Postdoctoral Researcher ([CLEOPATRA](https://cleopatra-project.eu/) under the Marie Skłodowska-Curie Innovative Training Network)
+* February 2020-2023: Associate Researcher ([CLEOPATRA](https://cleopatra-project.eu/) under the Marie Skłodowska-Curie Innovative Training Network)
   * Jozef Stefan Institute, Ljubljana, Slovenia
   * Duties included: Course work, participation: research works, learning weeks, hackathons, workshops
   * Supervisors: [Prof. Dr. Dunja Mladenic](https://ailab.ijs.si/dunja_mladenic/), [Marko Grobelnik](https://ailab.ijs.si/marko_grobelnik/)

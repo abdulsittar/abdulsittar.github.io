@@ -12,7 +12,7 @@ I am a researcher in AI/ML working on problems related to information understand
 ## Research Interests
 <ul>
   <li>Information diffusion in news and social media</li>
-  <li>Multimodal news analysis (text, image)</li>
+  <li>Multimodal news analysis (text, images)</li>
   <li>LLM-based multi-agent systems and ecosystems</li>
   <li>Clinical data analysis and healthcare AI</li>
   <li>Plagiarism detection and content similarity modeling</li>

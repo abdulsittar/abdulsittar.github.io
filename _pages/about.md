@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a researcher (AI/ML) with interests in information diffusion in news and social media, multimodal news analysis, LLM-based multi-agent ecosystems, Clinical data analysis, and Plagiarism Detection.
+I am a researcher in AI/ML working on problems related to information understanding and analysis across news, social media, and clinical data.
 
+## Research Interests
 <ul>
   <li>Information diffusion in news and social media</li>
   <li>Multimodal news analysis (text, image)</li>

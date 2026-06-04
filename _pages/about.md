@@ -191,6 +191,72 @@ Top publications
 8. [(2022) Political and Economic Patterns in COVID-19 News: From Lockdown to Vaccination]([https://ieeexplore.ieee.org/document/9749092](https://ieeexplore.ieee.org/document/9749092)) at IEEE Access (Q1)
 9. [(2022) Analysis of information cascading and propagation barriers across distinctive news events]([https://link.springer.com/article/10.1007/s10844-021-00654-9/](https://link.springer.com/article/10.1007/s10844-021-00654-9/)) at Journal of Intelligent Information Systems (Q2)
 10. [(2016) Author Diarization Using Cluster-Distance Approach]([https://downloads.webis.de/pan/publications/papers/sittar_2016.pdf](https://downloads.webis.de/pan/publications/papers/sittar_2016.pdf)) at CLEF (Working Notes)
+11. (2021) Classification of Cross-cultural News Events
+12. (2020) A Dataset for Information Spreading over the News
+13. (2018) Multi-lingual Author Profiling using Stylistic Features
+
+---
+
+Recent AI & LLM Research
+======
+
+1. **(2026)** Fake News Detection Through LLM-Driven Text Augmentation Across Media and Languages
+2. **(2026)** Constructing a Dataset to Support Agent-Based Modeling of Online Interactions
+3. **(2026)** Simulating Multi-Agent Social Media Ecosystem with LLMs: Modeling, Evaluation, and Structural Effects of Ranking Mechanisms
+4. **(2026)** TWON Social Media: A Scalable MERN-Stack Platform for Experimental Research in Online Social Networks
+5. **(2025)** Agent-Based Simulations of Online Political Discussions: A Case Study on Elections in Germany
+6. **(2025)** Synthetic News Generation for Fake News Classification
+7. **(2025)** Designing AI Agents for Social Media
+8. **(2025)** Towards AI-Powered Real-Time Negotiation Agent
+9. **(2024)** Fact Manipulation in News: LLM-Driven Synthesis and Evaluation of Fake News Annotation
+10. **(2024)** Perception of AI in Slovenia
+
+---
+
+Conference & Workshop Publications
+======
+
+1. **(2026)** Nudging Civility on Online Social Networks with Large Language Models  
+   F. t'Serstevens, C. Oschatz, A. Sittar, D. Trilling, A. Guček
+
+2. **(2025)** Designing AI Agents for Social Media  
+   A. Sittar, M. Smiljanić, A. Guček
+
+3. **(2024)** Perception of AI in Slovenia  
+   A. Sittar, A. Guček, D. Mladenić
+
+4. **(2024)** Fact Manipulation in News: LLM-Driven Synthesis and Evaluation of Fake News Annotation  
+   L. Golob, A. Sittar
+
+5. **(2022)** Stylistic Features in Clustering News Reporting: News Articles on Brexit  
+   Proceedings of the 23rd International Multiconference Information Society
+
+6. **(2021)** Using the Profile of Publishers to Predict Barriers Across News Articles  
+   Proceedings of the 2nd International Workshop on Cross-lingual Event-centric Open Analytics
+
+7. **(2021)** How are the Economic Conditions and Political Alignment of a Newspaper Reflected in the Events They Report On?  
+   Central European Conference on Information and Intelligent Systems (CECIIS)
+
+8. **(2021)** Classification of Cross-cultural News Events  
+   Proceedings of the 24th International Multiconference Information Society
+
+9. **(2020)** A Dataset for Information Spreading over the News  
+   Proceedings of the 23rd International Multiconference Information Society
+
+10. **(2018)** Multi-lingual Author Profiling using Stylistic Features  
+    FIRE 2018
+
+11. **(2016)** Author Diarization Using Cluster-Distance Approach  
+    CLEF 2016 Working Notes
+
+12. **(2015)** A Corpus for Analyzing Text Reuse by People of Different Groups  
+    CLEF 2015 Working Notes
+
+13. **(2015)** Identification of Author Personality Traits Using Stylistic Features  
+    CLEF 2015
+
+14. **(2015)** Identification of Author Personality Traits Using Stylistic Features: Notebook for PAN at CLEF 2015  
+    CLEF 2015 Working Notes
 
 ---
 

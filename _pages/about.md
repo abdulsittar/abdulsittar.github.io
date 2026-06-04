@@ -197,22 +197,6 @@ Top publications
 
 ---
 
-Recent AI & LLM Research
-======
-
-1. **(2026)** Fake News Detection Through LLM-Driven Text Augmentation Across Media and Languages
-2. **(2026)** Constructing a Dataset to Support Agent-Based Modeling of Online Interactions
-3. **(2026)** Simulating Multi-Agent Social Media Ecosystem with LLMs: Modeling, Evaluation, and Structural Effects of Ranking Mechanisms
-4. **(2026)** TWON Social Media: A Scalable MERN-Stack Platform for Experimental Research in Online Social Networks
-5. **(2025)** Agent-Based Simulations of Online Political Discussions: A Case Study on Elections in Germany
-6. **(2025)** Synthetic News Generation for Fake News Classification
-7. **(2025)** Designing AI Agents for Social Media
-8. **(2025)** Towards AI-Powered Real-Time Negotiation Agent
-9. **(2024)** Fact Manipulation in News: LLM-Driven Synthesis and Evaluation of Fake News Annotation
-10. **(2024)** Perception of AI in Slovenia
-
----
-
 Conference & Workshop Publications
 ======
 
